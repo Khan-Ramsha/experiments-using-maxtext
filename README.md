@@ -4,7 +4,7 @@ Objective of these experiments was to explore and evaluate Large Language Model 
 
 ### About MaxText
 
-MaxText is Google's high-performance, open-source LLM training framework written in pure Python and JAX. It is designed to efficiently train and serve large language models on TPUs and GPUs while providing reference implementations of modern architectures such as Qwen, Llama, Mistral, DeepSeek, and Mixture-of-Experts (MoE) models.
+MaxText is Google's high-performance, open-source LLM training framework written in pure Python and JAX. It leverages XLA compiler to achieve high performance and hardware utilization.
 
 The experiments consisted of three major tasks:
 
