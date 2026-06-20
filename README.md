@@ -12,10 +12,10 @@ Task 1: Understanding MaxText Data Formats
 
 I explored the MaxText documentation and codebase to understand:
 
-Supported dataset formats and input pipelines
-Differences between dataset types
-Advantages and trade-offs of each approach
-Configuration parameters required for dataset selection
+- Supported dataset formats and input pipelines
+- Differences between dataset types
+- Advantages and trade-offs of each approach
+- Configuration parameters required for dataset selection
 
 A summary of findings is available in the [document](https://docs.google.com/document/d/1_bWr3cJCFDDScIspYEVpgFat8taDgVD9NEM2zIkvgsY/edit?usp=sharing)
 
