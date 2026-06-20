@@ -73,6 +73,6 @@ Please read the google document for my detailed writeup:
 │       └── scaled_up
 │       |    ├── scaled_on_TPU.ipynb
 │       |    └── training_log_tpu_1b (1).txt
-│       |_______metrics_table.png    
+│       |── metrics_table.png    
 └── README.md
 ```
