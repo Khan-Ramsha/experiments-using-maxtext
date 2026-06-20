@@ -46,8 +46,10 @@ Please read the google document for my detailed writeup:
 │   │   └── training_log_deepseek_gpu_v2.txt
 │   │
 │   └── TPU
-│       ├── dense_scaled_on_TPU.ipynb
-│       └── training_log_deepseek_tpu_v2.txt
+│   │   ├── dense_scaled_on_TPU.ipynb
+│   │   └── training_log_deepseek_tpu_v2.txt
+│   └── metrics_table.png
+|     
 │
 ├── Qwen3-0.6B-Dense
 │   ├── CPU
@@ -69,8 +71,8 @@ Please read the google document for my detailed writeup:
 │       │   └── training_log_tpu_0.6b.txt
 │       │
 │       └── scaled_up
-│           ├── scaled_on_TPU.ipynb
-│           └── training_log_tpu_1b (1).txt
-│
+│       |    ├── scaled_on_TPU.ipynb
+│       |    └── training_log_tpu_1b (1).txt
+│       |_______metrics_table.png    
 └── README.md
 ```
