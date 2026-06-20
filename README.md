@@ -65,14 +65,15 @@ Please read the google document for my detailed writeup:
 │   │       ├── dense_scaled_on_GPU.ipynb
 │   │       └── training_log_gpu_1b.txt
 │   │
-│   └── TPU
-│       ├── original_qwen_0.6
-│       │   ├── qwen3-on-TPU.ipynb
-│       │   └── training_log_tpu_0.6b.txt
-│       │
-│       └── scaled_up
-│       |    ├── scaled_on_TPU.ipynb
-│       |    └── training_log_tpu_1b (1).txt
-│       |── metrics_table.png    
+│   ├── TPU/
+│   │   ├── original_qwen_0.6/
+│   │   │   ├── qwen3-on-TPU.ipynb
+│   │   │   └── training_log_tpu_0.6b.txt
+│   │   │
+│   │   └── scaled_up/
+│   │       ├── scaled_on_TPU.ipynb
+│   │       └── training_log_tpu_1b (1).txt
+│   │
+│   └── metrics_table.png 
 └── README.md
 ```
